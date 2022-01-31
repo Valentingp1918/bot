@@ -1,0 +1,13 @@
+{
+  "name": "BotCar",
+  "version": "0.0.0",
+  "descripcion": "Bot Para Streaming Gratis",
+  "main": "car.js",
+  "scripts": {
+  "star": "node car.js"
+  },
+  "dependencies": {
+    @adiwajshing/bailesys:^3.4.1"
+   }
+}
+  
